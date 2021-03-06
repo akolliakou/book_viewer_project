@@ -1,1 +1,1 @@
-# book_viewer_project
+Launch School's Book Viewer project
